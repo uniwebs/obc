@@ -606,7 +606,7 @@ class DocumentController extends Controller {
 	 * Expects a valid token in access_token parameter.
 	 */
 	public function wopiGetFile($fileId){
-		\OC_User::setIncognitoMode(true);
+		/**\OC_User::setIncognitoMode(true);*/
 		$token = $this->request->getParam('access_token');
 
 		list($fileId, , $version) = Helper::parseFileId($fileId);
