@@ -1850,7 +1850,7 @@ msgstr ""
 #: src/control/Control.Menubar.js:208
 #: src/control/Control.Menubar.js:257
 msgid "Insert"
-msgstr ""
+msgstr "삽입"
 
 #: src/control/Control.ColumnHeader.js:39
 msgid "Insert column before"
@@ -1926,7 +1926,7 @@ msgstr ""
 #: src/control/Control.Menubar.js:174
 #: src/control/Control.Menubar.js:234
 msgid "File"
-msgstr ""
+msgstr "화일"
 
 #: src/control/Control.Menubar.js:12
 #: src/control/Control.Menubar.js:176
@@ -1968,7 +1968,7 @@ msgstr ""
 #: src/control/Control.Menubar.js:184
 #: src/control/Control.Menubar.js:244
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 #: src/control/Control.Menubar.js:21
 msgid "Repair"
@@ -2027,7 +2027,7 @@ msgstr ""
 #: src/control/Control.Menubar.js:194
 #: src/control/Control.Menubar.js:254
 msgid "View"
-msgstr ""
+msgstr "보기"
 
 #: src/control/Control.Menubar.js:40
 #: src/control/Control.Menubar.js:195
@@ -2107,7 +2107,7 @@ msgstr ""
 
 #: src/control/Control.Menubar.js:69
 msgid "Format"
-msgstr ""
+msgstr "서식"
 
 #: src/control/Control.Menubar.js:70
 msgid "Text"
@@ -2322,7 +2322,7 @@ msgstr ""
 #: src/control/Control.Menubar.js:148
 #: src/control/Control.Menubar.js:207
 msgid "Tables"
-msgstr ""
+msgstr "표"
 
 #: src/control/Control.Menubar.js:150
 #: src/control/Control.Menubar.js:209
@@ -2391,7 +2391,7 @@ msgstr ""
 #: src/control/Control.Menubar.js:226
 #: src/control/Control.Menubar.js:273
 msgid "Help"
-msgstr ""
+msgstr "도움말"
 
 #: src/control/Control.Menubar.js:167
 #: src/control/Control.Menubar.js:227
@@ -2419,7 +2419,7 @@ msgstr ""
 
 #: src/control/Control.Menubar.js:219
 msgid "Slide"
-msgstr ""
+msgstr "슬라이드"
 
 #: src/control/Control.Menubar.js:220
 msgid "New slide"
@@ -2439,7 +2439,7 @@ msgstr ""
 
 #: src/control/Control.Menubar.js:266
 msgid "Cells"
-msgstr ""
+msgstr "셀"
 
 #: src/control/Control.Menubar.js:267
 msgid "Insert row"
@@ -2648,3 +2648,6 @@ msgstr ""
 #: src/map/handler/Map.FileInserter.js:54
 msgid "Uploading..."
 msgstr ""
+
+msgid "Tools"
+msgstr "도구"
