@@ -41,7 +41,7 @@
 			<div id="header">
 				<a href="<?php print_unescaped(link_to('', 'index.php')); ?>" id="owncloud" tabindex="1">
 					<h1 class="logo-icon">
-						<span class="own">own</span><span class="cloud">Cloud</span>
+						<span class="own">OnBiz</span><span class="cloud">Cube</span>
 					</h1>
 				</a>
 
